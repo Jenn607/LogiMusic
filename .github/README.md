@@ -103,7 +103,7 @@
 5. ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏꜱɪᴛᴏʀʏ
     
     
-               git clone https://github.com/LOGI-LAB/LogiMusic &&  cd LogiMusic
+               git clone https://github.com/Jenn607/LogiMusic &&  cd LogiMusic
     
 6. ɪɴꜱᴛᴀʟʟ ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ
     
