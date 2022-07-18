@@ -115,7 +115,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/LOGI-LAB/LogiMusic",
+        "value": "https://github.com/Jenn607/LogiMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
